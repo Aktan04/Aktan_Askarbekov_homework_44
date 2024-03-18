@@ -1,0 +1,41 @@
+.rabbit {
+    font-size: 100px;
+    color: navy;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: 'Arial Black', sans-serif;
+    text-align: center;
+}
+
+.rabbits_body {
+    background-color: rgb(198, 179, 122);
+}
+
+.rabbits_div {
+    border-radius: 40px;
+    margin-top: 200px;
+    margin-left: 250px;
+    margin-right: 420px;
+    background-color: aquamarine;
+}
+
+.matrix{
+    font-size: 36px;
+    color: rgb(237, 36, 36);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.matrix_div{
+    border-radius: 40px;
+    margin-top: 200px;
+    margin-left: 420px;
+    margin-right: 420px;
+    background-color: aquamarine;
+}
+
+.matrix_body{
+    background-color: rgb(31, 31, 27);
+}
